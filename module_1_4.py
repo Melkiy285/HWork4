@@ -1,0 +1,5 @@
+name=input('my_string')
+print('my_string'.upper())
+print('MY_STRING'.lower())
+print('my_string'.replace("_",""))
+print('my_sting'[-1])
